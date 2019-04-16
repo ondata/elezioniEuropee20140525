@@ -1,0 +1,545 @@
+{
+  "provincia": "ALESSANDRIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=2&levsut3=3&ne3=2&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=2&levsut3=3&ne3=2&tpest=l"
+}
+{
+  "provincia": "ASTI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=7&levsut3=3&ne3=7&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=7&levsut3=3&ne3=7&tpest=l"
+}
+{
+  "provincia": "CUNEO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=27&levsut3=3&ne3=27&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=27&levsut3=3&ne3=27&tpest=l"
+}
+{
+  "provincia": "NOVARA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=52&levsut3=3&ne3=52&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=52&levsut3=3&ne3=52&tpest=l"
+}
+{
+  "provincia": "TORINO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=81&levsut3=3&ne3=81&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=81&levsut3=3&ne3=81&tpest=l"
+}
+{
+  "provincia": "VERCELLI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=88&levsut3=3&ne3=88&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=88&levsut3=3&ne3=88&tpest=l"
+}
+{
+  "provincia": "BIELLA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=96&levsut3=3&ne3=96&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=96&levsut3=3&ne3=96&tpest=l"
+}
+{
+  "provincia": "VERBANO-CUSIO-OSSOLA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=102&levsut3=3&ne3=102&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=1&levsut2=2&ne2=1&lev3=102&levsut3=3&ne3=102&tpest=l"
+}
+{
+  "provincia": "BERGAMO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=12&levsut3=3&ne3=12&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=12&levsut3=3&ne3=12&tpest=l"
+}
+{
+  "provincia": "BRESCIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=15&levsut3=3&ne3=15&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=15&levsut3=3&ne3=15&tpest=l"
+}
+{
+  "provincia": "COMO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=24&levsut3=3&ne3=24&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=24&levsut3=3&ne3=24&tpest=l"
+}
+{
+  "provincia": "CREMONA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=26&levsut3=3&ne3=26&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=26&levsut3=3&ne3=26&tpest=l"
+}
+{
+  "provincia": "MANTOVA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=45&levsut3=3&ne3=45&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=45&levsut3=3&ne3=45&tpest=l"
+}
+{
+  "provincia": "MILANO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=49&levsut3=3&ne3=49&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=49&levsut3=3&ne3=49&tpest=l"
+}
+{
+  "provincia": "PAVIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=57&levsut3=3&ne3=57&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=57&levsut3=3&ne3=57&tpest=l"
+}
+{
+  "provincia": "SONDRIO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=77&levsut3=3&ne3=77&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=77&levsut3=3&ne3=77&tpest=l"
+}
+{
+  "provincia": "VARESE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=86&levsut3=3&ne3=86&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=86&levsut3=3&ne3=86&tpest=l"
+}
+{
+  "provincia": "LECCO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=98&levsut3=3&ne3=98&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=98&levsut3=3&ne3=98&tpest=l"
+}
+{
+  "provincia": "LODI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=99&levsut3=3&ne3=99&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=99&levsut3=3&ne3=99&tpest=l"
+}
+{
+  "provincia": "MONZA E DELLA BRIANZA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=104&levsut3=3&ne3=104&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=3&levsut2=2&ne2=3&lev3=104&levsut3=3&ne3=104&tpest=l"
+}
+{
+  "provincia": "GENOVA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=34&levsut3=3&ne3=34&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=34&levsut3=3&ne3=34&tpest=l"
+}
+{
+  "provincia": "IMPERIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=37&levsut3=3&ne3=37&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=37&levsut3=3&ne3=37&tpest=l"
+}
+{
+  "provincia": "LA SPEZIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=39&levsut3=3&ne3=39&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=39&levsut3=3&ne3=39&tpest=l"
+}
+{
+  "provincia": "SAVONA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=74&levsut3=3&ne3=74&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&lev2=7&levsut2=2&ne2=7&lev3=74&levsut3=3&ne3=74&tpest=l"
+}
+{
+  "provincia": "BOLZANO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=4&levsut2=2&ne2=4&lev3=14&levsut3=3&ne3=14&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=4&levsut2=2&ne2=4&lev3=14&levsut3=3&ne3=14&tpest=l"
+}
+{
+  "provincia": "TRENTO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=4&levsut2=2&ne2=4&lev3=83&levsut3=3&ne3=83&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=4&levsut2=2&ne2=4&lev3=83&levsut3=3&ne3=83&tpest=l"
+}
+{
+  "provincia": "BELLUNO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=10&levsut3=3&ne3=10&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=10&levsut3=3&ne3=10&tpest=l"
+}
+{
+  "provincia": "PADOVA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=54&levsut3=3&ne3=54&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=54&levsut3=3&ne3=54&tpest=l"
+}
+{
+  "provincia": "ROVIGO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=71&levsut3=3&ne3=71&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=71&levsut3=3&ne3=71&tpest=l"
+}
+{
+  "provincia": "TREVISO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=84&levsut3=3&ne3=84&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=84&levsut3=3&ne3=84&tpest=l"
+}
+{
+  "provincia": "VENEZIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=87&levsut3=3&ne3=87&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=87&levsut3=3&ne3=87&tpest=l"
+}
+{
+  "provincia": "VERONA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=89&levsut3=3&ne3=89&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=89&levsut3=3&ne3=89&tpest=l"
+}
+{
+  "provincia": "VICENZA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=90&levsut3=3&ne3=90&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=5&levsut2=2&ne2=5&lev3=90&levsut3=3&ne3=90&tpest=l"
+}
+{
+  "provincia": "GORIZIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=35&levsut3=3&ne3=35&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=35&levsut3=3&ne3=35&tpest=l"
+}
+{
+  "provincia": "UDINE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=85&levsut3=3&ne3=85&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=85&levsut3=3&ne3=85&tpest=l"
+}
+{
+  "provincia": "TRIESTE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=92&levsut3=3&ne3=92&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=92&levsut3=3&ne3=92&tpest=l"
+}
+{
+  "provincia": "PORDENONE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=93&levsut3=3&ne3=93&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=6&levsut2=2&ne2=6&lev3=93&levsut3=3&ne3=93&tpest=l"
+}
+{
+  "provincia": "BOLOGNA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=13&levsut3=3&ne3=13&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=13&levsut3=3&ne3=13&tpest=l"
+}
+{
+  "provincia": "FERRARA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=29&levsut3=3&ne3=29&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=29&levsut3=3&ne3=29&tpest=l"
+}
+{
+  "provincia": "FORLI'-CESENA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=32&levsut3=3&ne3=32&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=32&levsut3=3&ne3=32&tpest=l"
+}
+{
+  "provincia": "MODENA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=50&levsut3=3&ne3=50&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=50&levsut3=3&ne3=50&tpest=l"
+}
+{
+  "provincia": "PARMA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=56&levsut3=3&ne3=56&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=56&levsut3=3&ne3=56&tpest=l"
+}
+{
+  "provincia": "PIACENZA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=61&levsut3=3&ne3=61&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=61&levsut3=3&ne3=61&tpest=l"
+}
+{
+  "provincia": "RAVENNA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=66&levsut3=3&ne3=66&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=66&levsut3=3&ne3=66&tpest=l"
+}
+{
+  "provincia": "REGGIO NELL'EMILIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=68&levsut3=3&ne3=68&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=68&levsut3=3&ne3=68&tpest=l"
+}
+{
+  "provincia": "RIMINI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=101&levsut3=3&ne3=101&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&lev2=8&levsut2=2&ne2=8&lev3=101&levsut3=3&ne3=101&tpest=l"
+}
+{
+  "provincia": "AREZZO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=5&levsut3=3&ne3=5&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=5&levsut3=3&ne3=5&tpest=l"
+}
+{
+  "provincia": "FIRENZE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=30&levsut3=3&ne3=30&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=30&levsut3=3&ne3=30&tpest=l"
+}
+{
+  "provincia": "GROSSETO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=36&levsut3=3&ne3=36&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=36&levsut3=3&ne3=36&tpest=l"
+}
+{
+  "provincia": "LIVORNO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=42&levsut3=3&ne3=42&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=42&levsut3=3&ne3=42&tpest=l"
+}
+{
+  "provincia": "LUCCA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=43&levsut3=3&ne3=43&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=43&levsut3=3&ne3=43&tpest=l"
+}
+{
+  "provincia": "MASSA-CARRARA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=46&levsut3=3&ne3=46&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=46&levsut3=3&ne3=46&tpest=l"
+}
+{
+  "provincia": "PISA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=62&levsut3=3&ne3=62&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=62&levsut3=3&ne3=62&tpest=l"
+}
+{
+  "provincia": "PISTOIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=63&levsut3=3&ne3=63&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=63&levsut3=3&ne3=63&tpest=l"
+}
+{
+  "provincia": "SIENA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=75&levsut3=3&ne3=75&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=75&levsut3=3&ne3=75&tpest=l"
+}
+{
+  "provincia": "PRATO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=100&levsut3=3&ne3=100&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=9&levsut2=2&ne2=9&lev3=100&levsut3=3&ne3=100&tpest=l"
+}
+{
+  "provincia": "PERUGIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=10&levsut2=2&ne2=10&lev3=58&levsut3=3&ne3=58&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=10&levsut2=2&ne2=10&lev3=58&levsut3=3&ne3=58&tpest=l"
+}
+{
+  "provincia": "TERNI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=10&levsut2=2&ne2=10&lev3=80&levsut3=3&ne3=80&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=10&levsut2=2&ne2=10&lev3=80&levsut3=3&ne3=80&tpest=l"
+}
+{
+  "provincia": "ANCONA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=3&levsut3=3&ne3=3&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=3&levsut3=3&ne3=3&tpest=l"
+}
+{
+  "provincia": "ASCOLI PICENO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=6&levsut3=3&ne3=6&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=6&levsut3=3&ne3=6&tpest=l"
+}
+{
+  "provincia": "MACERATA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=44&levsut3=3&ne3=44&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=44&levsut3=3&ne3=44&tpest=l"
+}
+{
+  "provincia": "PESARO E URBINO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=59&levsut3=3&ne3=59&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=59&levsut3=3&ne3=59&tpest=l"
+}
+{
+  "provincia": "FERMO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=105&levsut3=3&ne3=105&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=11&levsut2=2&ne2=11&lev3=105&levsut3=3&ne3=105&tpest=l"
+}
+{
+  "provincia": "FROSINONE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=33&levsut3=3&ne3=33&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=33&levsut3=3&ne3=33&tpest=l"
+}
+{
+  "provincia": "LATINA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=40&levsut3=3&ne3=40&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=40&levsut3=3&ne3=40&tpest=l"
+}
+{
+  "provincia": "RIETI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=69&levsut3=3&ne3=69&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=69&levsut3=3&ne3=69&tpest=l"
+}
+{
+  "provincia": "ROMA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=70&levsut3=3&ne3=70&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=70&levsut3=3&ne3=70&tpest=l"
+}
+{
+  "provincia": "VITERBO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=91&levsut3=3&ne3=91&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&lev2=12&levsut2=2&ne2=12&lev3=91&levsut3=3&ne3=91&tpest=l"
+}
+{
+  "provincia": "CHIETI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=23&levsut3=3&ne3=23&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=23&levsut3=3&ne3=23&tpest=l"
+}
+{
+  "provincia": "L'AQUILA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=38&levsut3=3&ne3=38&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=38&levsut3=3&ne3=38&tpest=l"
+}
+{
+  "provincia": "PESCARA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=60&levsut3=3&ne3=60&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=60&levsut3=3&ne3=60&tpest=l"
+}
+{
+  "provincia": "TERAMO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=79&levsut3=3&ne3=79&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=13&levsut2=2&ne2=13&lev3=79&levsut3=3&ne3=79&tpest=l"
+}
+{
+  "provincia": "CAMPOBASSO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=14&levsut2=2&ne2=14&lev3=19&levsut3=3&ne3=19&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=14&levsut2=2&ne2=14&lev3=19&levsut3=3&ne3=19&tpest=l"
+}
+{
+  "provincia": "ISERNIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=14&levsut2=2&ne2=14&lev3=94&levsut3=3&ne3=94&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=14&levsut2=2&ne2=14&lev3=94&levsut3=3&ne3=94&tpest=l"
+}
+{
+  "provincia": "AVELLINO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=8&levsut3=3&ne3=8&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=8&levsut3=3&ne3=8&tpest=l"
+}
+{
+  "provincia": "BENEVENTO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=11&levsut3=3&ne3=11&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=11&levsut3=3&ne3=11&tpest=l"
+}
+{
+  "provincia": "CASERTA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=20&levsut3=3&ne3=20&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=20&levsut3=3&ne3=20&tpest=l"
+}
+{
+  "provincia": "NAPOLI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=51&levsut3=3&ne3=51&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=51&levsut3=3&ne3=51&tpest=l"
+}
+{
+  "provincia": "SALERNO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=72&levsut3=3&ne3=72&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=15&levsut2=2&ne2=15&lev3=72&levsut3=3&ne3=72&tpest=l"
+}
+{
+  "provincia": "BARI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=9&levsut3=3&ne3=9&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=9&levsut3=3&ne3=9&tpest=l"
+}
+{
+  "provincia": "BRINDISI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=16&levsut3=3&ne3=16&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=16&levsut3=3&ne3=16&tpest=l"
+}
+{
+  "provincia": "FOGGIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=31&levsut3=3&ne3=31&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=31&levsut3=3&ne3=31&tpest=l"
+}
+{
+  "provincia": "LECCE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=41&levsut3=3&ne3=41&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=41&levsut3=3&ne3=41&tpest=l"
+}
+{
+  "provincia": "TARANTO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=78&levsut3=3&ne3=78&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=78&levsut3=3&ne3=78&tpest=l"
+}
+{
+  "provincia": "BARLETTA-ANDRIA-TRANI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=106&levsut3=3&ne3=106&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=16&levsut2=2&ne2=16&lev3=106&levsut3=3&ne3=106&tpest=l"
+}
+{
+  "provincia": "MATERA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=17&levsut2=2&ne2=17&lev3=47&levsut3=3&ne3=47&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=17&levsut2=2&ne2=17&lev3=47&levsut3=3&ne3=47&tpest=l"
+}
+{
+  "provincia": "POTENZA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=17&levsut2=2&ne2=17&lev3=64&levsut3=3&ne3=64&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=17&levsut2=2&ne2=17&lev3=64&levsut3=3&ne3=64&tpest=l"
+}
+{
+  "provincia": "CATANZARO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=22&levsut3=3&ne3=22&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=22&levsut3=3&ne3=22&tpest=l"
+}
+{
+  "provincia": "COSENZA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=25&levsut3=3&ne3=25&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=25&levsut3=3&ne3=25&tpest=l"
+}
+{
+  "provincia": "REGGIO CALABRIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=67&levsut3=3&ne3=67&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=67&levsut3=3&ne3=67&tpest=l"
+}
+{
+  "provincia": "CROTONE",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=97&levsut3=3&ne3=97&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=97&levsut3=3&ne3=97&tpest=l"
+}
+{
+  "provincia": "VIBO VALENTIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=103&levsut3=3&ne3=103&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&lev2=18&levsut2=2&ne2=18&lev3=103&levsut3=3&ne3=103&tpest=l"
+}
+{
+  "provincia": "AGRIGENTO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=1&levsut3=3&ne3=1&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=1&levsut3=3&ne3=1&tpest=l"
+}
+{
+  "provincia": "CALTANISSETTA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=18&levsut3=3&ne3=18&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=18&levsut3=3&ne3=18&tpest=l"
+}
+{
+  "provincia": "CATANIA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=21&levsut3=3&ne3=21&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=21&levsut3=3&ne3=21&tpest=l"
+}
+{
+  "provincia": "ENNA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=28&levsut3=3&ne3=28&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=28&levsut3=3&ne3=28&tpest=l"
+}
+{
+  "provincia": "MESSINA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=48&levsut3=3&ne3=48&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=48&levsut3=3&ne3=48&tpest=l"
+}
+{
+  "provincia": "PALERMO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=55&levsut3=3&ne3=55&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=55&levsut3=3&ne3=55&tpest=l"
+}
+{
+  "provincia": "RAGUSA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=65&levsut3=3&ne3=65&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=65&levsut3=3&ne3=65&tpest=l"
+}
+{
+  "provincia": "SIRACUSA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=76&levsut3=3&ne3=76&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=76&levsut3=3&ne3=76&tpest=l"
+}
+{
+  "provincia": "TRAPANI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=82&levsut3=3&ne3=82&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=19&levsut2=2&ne2=19&lev3=82&levsut3=3&ne3=82&tpest=l"
+}
+{
+  "provincia": "CAGLIARI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=17&levsut3=3&ne3=17&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=17&levsut3=3&ne3=17&tpest=l"
+}
+{
+  "provincia": "NUORO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=53&levsut3=3&ne3=53&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=53&levsut3=3&ne3=53&tpest=l"
+}
+{
+  "provincia": "SASSARI",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=73&levsut3=3&ne3=73&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=73&levsut3=3&ne3=73&tpest=l"
+}
+{
+  "provincia": "ORISTANO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=95&levsut3=3&ne3=95&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=95&levsut3=3&ne3=95&tpest=l"
+}
+{
+  "provincia": "CARBONIA-IGLESIAS",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=107&levsut3=3&ne3=107&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=107&levsut3=3&ne3=107&tpest=l"
+}
+{
+  "provincia": "MEDIO CAMPIDANO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=108&levsut3=3&ne3=108&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=108&levsut3=3&ne3=108&tpest=l"
+}
+{
+  "provincia": "OGLIASTRA",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=109&levsut3=3&ne3=109&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=109&levsut3=3&ne3=109&tpest=l"
+}
+{
+  "provincia": "OLBIA-TEMPIO",
+  "URLscrutini": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=110&levsut3=3&ne3=110&tpest=s",
+  "URLliste": "estrazione.php?tpel=E&dtel=25/05/2014&ord=5&tpa=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&lev2=20&levsut2=2&ne2=20&lev3=110&levsut3=3&ne3=110&tpest=l"
+}

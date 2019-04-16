@@ -1,0 +1,5 @@
+/index.php?tpel=E&dtel=25/05/2014&tpa=I&tpe=I&lev0=0&levsut0=0&lev1=1&levsut1=1&ne1=1&es0=S&es1=S&ms=S
+/index.php?tpel=E&dtel=25/05/2014&tpa=I&tpe=I&lev0=0&levsut0=0&lev1=2&levsut1=1&ne1=2&es0=S&es1=S&ms=S
+/index.php?tpel=E&dtel=25/05/2014&tpa=I&tpe=I&lev0=0&levsut0=0&lev1=3&levsut1=1&ne1=3&es0=S&es1=S&ms=S
+/index.php?tpel=E&dtel=25/05/2014&tpa=I&tpe=I&lev0=0&levsut0=0&lev1=4&levsut1=1&ne1=4&es0=S&es1=S&ms=S
+/index.php?tpel=E&dtel=25/05/2014&tpa=I&tpe=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&es0=S&es1=S&ms=S
